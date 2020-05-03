@@ -5,10 +5,10 @@ sections:
     title: Kontakt
     section_id: contact
     content: >-
-      #### Neuropsychologische Praxis Dr. Denise Long
+      # Neuropsychologische Praxis \ Dr. Denise Long
 
 
-      ###### Fachpsychologin für Neuropsychologie FSP
+      Fachpsychologin für Neuropsychologie FSP
 
 
       Bahnhofstrasse 32 8001 Zürich
