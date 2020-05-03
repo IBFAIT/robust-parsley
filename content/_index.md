@@ -7,7 +7,7 @@ sections:
     content: Dr. Denise Long klärt ab und macht Therapie für Menschen.
     image: images/hero.png
     actions:
-      - label: Learn More
+      - label: Angebot
         url: /features
   - type: section_features
     title: Features
