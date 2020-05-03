@@ -8,13 +8,9 @@ sections:
     image: images/hero.png
     actions: []
   - type: section_features
-    title: Neuropsychologische Abklärungen
+    title: Angebot
     section_id: features
-    subtitle: Anhand standardisierter Tests und Fragebögen und unter Einbezug der
-      Verhaltensbeobachtung werden allfällige kognitive Schwierigkeiten sowie
-      Verhaltensauffälligkeiten erfasst. Die Resultate werden mit der
-      untersuchten Person besprochen. Allfällige Therapieoptionen werden
-      erläutert.
+    subtitle: "Bla bla bla "
     background: gray
     features:
       - title: Neuropsychologische Abklärungen
