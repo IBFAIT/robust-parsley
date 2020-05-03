@@ -2,18 +2,21 @@
 title: Home
 sections:
   - type: section_hero
-    title: Praxis Dr. Denise Long
+    title: Neuropsychologische Praxis Dr. Denise Long
     section_id: hero
     content: Dr. Denise Long klärt ab und macht Therapie für Menschen.
     image: images/hero.png
     actions:
-      - label: Angebot
+      - label: Zum Angebot
         url: /features
   - type: section_features
-    title: Features
+    title: Neuropsychologische Abklärungen
     section_id: features
-    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
-      metus quis lorem malesuada luctus.
+    subtitle: Anhand standardisierter Tests und Fragebögen und unter Einbezug der
+      Verhaltensbeobachtung werden allfällige kognitive Schwierigkeiten sowie
+      Verhaltensauffälligkeiten erfasst. Die Resultate werden mit der
+      untersuchten Person besprochen. Allfällige Therapieoptionen werden
+      erläutert.
     background: gray
     features:
       - title: The Best Feature of Your Services
