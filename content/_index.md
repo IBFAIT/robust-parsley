@@ -49,6 +49,36 @@ sections:
           Dieses Programm nennen wir«Deutschkonversation – Hilfe zur
           Selbsthilfe»– es dreht sich um sämtliche Fragen die Integration
           betreffend.
+  - type: section_content
+    background: gray
+    title: Über Dr. Denise Long
+    content: >-
+      Seit über zwanzig Jahren bin ich mit «Herz und Gehirn» Neuropsychologin.
+      Durch meine transparente Arbeitsweise und den respektvollen Umgang mit
+      Exploranden und Auftraggebern, gelingt es mir auf die persönlichen
+      Bedürfnisse der Betroffenen einzugehen und gleichzeitig die Fragen der
+      Auftraggeber nachvollziehbar, zeitnah und fundiert zu beantworten.
+
+
+      # Kernkompetenzen
+
+
+      Meine klinische Grundausbildung erfolgte in der neurologischen Klinik des Universitätsspitals Zürich. Später arbeitete ich mit psychiatrischen Patienten, half beim Aufbau einer Memoryclinic mit und führe nun seit Jahren Begutachtungen durch. 
+
+
+      * Neuropsychologische Abklärungen im Rahmen neurologischer Erkrankungen
+
+      * Neuropsychologische Abklärungen im Rahmen psychiatrischer Erkrankungen
+
+      * Neuropsychologische Diagnostik bei der Frage nach AD(HS), Autismusspektrumstörungen etc.
+
+      * Neuropsychologische Begutachtungen
+        Abklärungen im Hinblick auf eine berufliche Wiedereingliederung
+      * Neuropsychologische Therapien
+    actions:
+      - new_window: false
+        label: Mehr über mich
+        url: /style-guide/
   - type: section_reviews
     title: Testimonials
     section_id: reviews
@@ -80,11 +110,5 @@ sections:
     title: Latest Posts
     section_id: recent-posts
     background: gray
-  - type: section_content
-    background: gray
-    title: DAs ist ein Test
-    content: asdf asd fasd fas dfasdf asd fasd fas dfasdf asd fasd fas dfasdf asd
-      fasd fas dfasdf asd fasd fas dfasdf asd fasd fas dfasdf asd fasd fas
-      dfasdf asd fasd fas df
 layout: landing
 ---
