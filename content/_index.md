@@ -4,8 +4,7 @@ sections:
   - type: section_hero
     title: Praxis Dr. Denise Long
     section_id: hero
-    content: "Azimuth is the perfect theme for developers, designers and
-      entrepreneurs who need a sleek, modern SaaS site. "
+    content: Dr. Denise Long klärt ab und macht Therapie für Menschen.
     image: images/hero.png
     actions:
       - label: Learn More
