@@ -6,9 +6,7 @@ sections:
     section_id: hero
     content: Dr. Denise Long klärt ab und macht Therapie für Menschen.
     image: images/hero.png
-    actions:
-      - label: Zum Angebot
-        url: /features
+    actions: []
   - type: section_features
     title: Neuropsychologische Abklärungen
     section_id: features
@@ -19,30 +17,42 @@ sections:
       erläutert.
     background: gray
     features:
-      - title: The Best Feature of Your Services
-        content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+      - title: Neuropsychologische Abklärungen
+        content: Anhand standardisierter Tests und Fragebögen und unter Einbezug der
+          Verhaltensbeobachtung werden allfällige kognitive Schwierigkeiten
+          sowie Verhaltensauffälligkeiten erfasst. Die Resultate werden mit der
+          untersuchten Person besprochen. Allfällige Therapieoptionen werden
+          erläutert.
         image: images/feature1.png
         actions:
           - label: Learn More
             url: /features
-      - title: Awesome Feature of Your Services
-        content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+      - title: Neuropsychologische Gutachten
+        content: Seit 2014 bin ich zertifizierte neuropsychologische Gutachterin SIM und
+          habe über zweihundert Gutachten für verschiedene Auftraggeber
+          (Invalidenversicherung, Krankentaggeldversicherer, Unfallversicherung)
+          verfasst.
         image: images/feature2.png
         actions:
           - label: Learn More
             url: /features
-      - title: Cool Feature of Your Services
-        content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+      - title: Neuropsychologisches Einzeltraining
+        content: Im Einzeltraining soll eine möglichst grosse Selbständigkeit in Alltag
+          und Beruf erreicht werden. Individuell zusammengestellte
+          Übungsprogramme am Computer und auf Papier ermöglichen ein an Schwere
+          und Art der kognitiven Störung angepasstes Training.
         image: images/feature3.png
         actions:
           - label: Learn More
             url: /features
+      - title: Beratung, Triagierung und weitere Begleitung
+        content: Seit Anfang 2002 bietet die Freiplatzaktion Basel ein Lern- und
+          Betreuungsprogramm für Frauen, Männer und Kinder unterschiedlicher
+          Herkunft an, das sich zum Ziel gesetzt hat, die Eigenständigkeit der
+          Teilnehmenden und deren Familien zu stärken und zu unterstützen.
+          Dieses Programm nennen wir«Deutschkonversation – Hilfe zur
+          Selbsthilfe»– es dreht sich um sämtliche Fragen die Integration
+          betreffend.
   - type: section_reviews
     title: Testimonials
     section_id: reviews
@@ -74,5 +84,11 @@ sections:
     title: Latest Posts
     section_id: recent-posts
     background: gray
+  - type: section_content
+    background: gray
+    title: DAs ist ein Test
+    content: asdf asd fasd fas dfasdf asd fasd fas dfasdf asd fasd fas dfasdf asd
+      fasd fas dfasdf asd fasd fas dfasdf asd fasd fas dfasdf asd fasd fas
+      dfasdf asd fasd fas df
 layout: landing
 ---
